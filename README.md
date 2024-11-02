@@ -1,4 +1,4 @@
-Understanding the Project: Linear Regression on Housing Prices
+#Understanding the Project: Linear Regression on Housing Prices
 
 Project Overview
 
