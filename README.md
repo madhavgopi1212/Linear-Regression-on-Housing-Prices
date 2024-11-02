@@ -1,6 +1,6 @@
-#Understanding the Project: Linear Regression on Housing Prices
+# Understanding the Project: Linear Regression on Housing Prices
 
-Project Overview
+## Project Overview
 
 This project aims to predict housing prices using a linear regression model. We will utilize the housing.csv dataset, which contains various features related to houses, such as:
 
@@ -13,7 +13,7 @@ Households: Number of households in the block group.
 Median House Value: Median house value in US Dollars.
 Project Structure
 
-Data Exploration and Preparation:
+## Data Exploration and Preparation:
 
 Load the housing.csv dataset into a suitable data structure (e.g., Pandas DataFrame).
 Explore the data to understand its characteristics, including data types, missing values, and outliers.
