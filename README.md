@@ -15,15 +15,16 @@ Project Structure
 
 ## Data Exploration and Preparation:
 
-Load the housing.csv dataset into a suitable data structure (e.g., Pandas DataFrame).
-Explore the data to understand its characteristics, including data types, missing values, and outliers.
-Clean the data by handling missing values and outliers as necessary.
-Split the data into training and testing sets.
-Feature Engineering:
+1. Load the housing.csv dataset into a suitable data structure (e.g., Pandas DataFrame).
+2. Explore the data to understand its characteristics, including data types, missing values, and outliers.
+3. Clean the data by handling missing values and outliers as necessary.
+4. Split the data into training and testing sets.
+
+## Feature Engineering:
 
 Create new features if needed (e.g., combining features, creating ratios).
 Scale the features to ensure fair comparison and model performance.
-Model Building and Training:
+## Model Building and Training:
 
 Implement a linear regression model.
 Train the model on the training set.
@@ -35,13 +36,15 @@ Model Improvement:
 
 Experiment with different feature engineering techniques and model hyperparameters to improve performance.
 Consider regularization techniques (e.g., L1, L2) to prevent overfitting.
-Required Libraries:
 
-Pandas: For data manipulation and analysis.
-NumPy: For numerical operations.
-Matplotlib and Seaborn: For data visualization.
-Scikit-learn: For machine learning algorithms and model evaluation.   
-Outputs:
+## Required Libraries:
+
+#### Pandas: For data manipulation and analysis.
+#### NumPy: For numerical operations.
+#### Matplotlib and Seaborn: For data visualization.
+#### Scikit-learn: For machine learning algorithms and model evaluation.   
+
+## Outputs:
 
 Cleaned and Preprocessed Dataset: A CSV file containing the cleaned and preprocessed data.
 Trained Model: A trained linear regression model.
