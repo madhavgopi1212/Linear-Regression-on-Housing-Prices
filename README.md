@@ -5,13 +5,6 @@
 ## Project Name : Linear Regression on Housing Price Prediction
 
 
-
-
-
-
-
-
-
 # Understanding the Project: Linear Regression on Housing Prices
 
 ## Project Overview
