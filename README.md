@@ -1,3 +1,17 @@
+# CODTECH IT SOLUTIONS TASK1
+## Internship Domain : Machine Learning
+## Intern ID : CT12DS2473
+## Intern Name : YARRAGOLLA MADHAVA GOPI
+## Project Name : Linear Regression on Housing Price Prediction
+
+
+
+
+
+
+
+
+
 # Understanding the Project: Linear Regression on Housing Prices
 
 ## Project Overview
